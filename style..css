@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'DM Sans';
+}
+
+body{
+    background-color: #AE1332;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 350px;
+    background-color: white;
+    height: 50px;
+}
+
+.wrap{
+    display: flex;
+    gap: 20px;
+}
+
+.wrap2{
+    display: flex;
+    gap: 8px;
+}
+
+.logo{
+    color: #AE1332;
+}
+
+.nav{
+    color: #AE1332;
+}
